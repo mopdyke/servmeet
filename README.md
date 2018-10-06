@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/mopdyke/servmeet/edit/mast
 
 You will have to allow your android device to install from unknow sources. To do this - depending on your version - go to Menu > Settings > Applications and make sure “Unknown sources” is checked. You're also going to need a file browser app so that you can view the files in your phone's storage.
 
-[Link](https://github.com/mopdyke/servmeet/blob/master/ServiceMeetng.ServiceMeeting.apk) and ![Image](src)
+[Download](https://github.com/mopdyke/servmeet/raw/master/ServiceMeetng.ServiceMeeting.apk) 
 
 
 
